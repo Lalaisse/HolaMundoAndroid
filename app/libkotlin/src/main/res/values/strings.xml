@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">libKotlin</string>
+    <string name="titulo_ventana">Contador</string>
+    <string name="lbl_button">Aumentar</string>
+    <string name="btn_Ejemplo">Aceptar</string>
+    <string name="btnLimpiar">Limpiar</string>
+</resources>
